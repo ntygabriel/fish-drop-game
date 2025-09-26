@@ -3,7 +3,7 @@ Um simples Catcher Game desenvolvido com p5.js, inspirado no minigame "Food Drop
 
 Este projeto foi desenvolvido na disciplina Matemática Aplicada à Multimídia, do curso Sistemas e Mídias Digitais (UFC), ministrada pela Profa. Me. Mara Franklin Bonates.
 
-> ⚠️ Este projeto está em desenvolvimento e será melhorado aos poucos. 
+> ⚠️ Este projeto será melhorado aos poucos. 
 
 ## Como Jogar
 
