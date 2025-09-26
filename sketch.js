@@ -8,9 +8,9 @@ let numGotas, numPeixes;
 let alturaChao;
 
 function preload() {
-  imgGato = loadImage("personagem/gato.png"); //100x100
-  imgGota = loadImage("objetos/gota.png"); //36x64
-  imgPeixe = loadImage("objetos/peixe.png"); //50x75
+  imgGato = loadImage("assets/images/gato.png"); //100x100
+  imgGota = loadImage("assets/images/gota.png"); //36x64
+  imgPeixe = loadImage("assets/images/peixe.png"); //50x75
 }
 
 function setup() {
